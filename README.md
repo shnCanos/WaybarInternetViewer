@@ -4,7 +4,7 @@
 
 Probably my worst code yet.
 
-This is a simple, written in python, internet viewer for waybar. The code is absolutely awful and I have absolutely no idea whether it actually works or even how it works (I just used random libraries) so use at your own discretion.
+This is a simple, written in python, internet viewer for waybar. The code is absolutely awful and I have absolutely no idea whether it actually works or even how it works (I just used random libraries).
 
 This is extremely small, only twelve lines, so you can see it yourself!
 
